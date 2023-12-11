@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+td img{
+    border-radius: 5px;
+}
+.primary{
+    background-color: rgba(245, 242, 236, 0.985);
+    padding: 2px;
+}
+.description{
+    font-size: 1.5rem;
+}
+.profile img{
+    border-radius: 10px ;
+}
