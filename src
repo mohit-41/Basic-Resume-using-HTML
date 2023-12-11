@@ -14,19 +14,19 @@
     <section>
         <table>
             <tr>
-                <td>Contact:</td>
+                <td><img src="email.png" alt="Email:" height="25px" width="28px"></td>
                 <td><a href="mailto:mkmohit0409@gmail.com">mkmohit0409@gmail.com</a></td>
             </tr>
             <tr>
-                <td>LinkedIn:</td>
+                <td><img src="LinkedIn_logo.png" alt="LinkedIn:" height="25px" width="28px"></td>
                 <td><a href="https://www.linkedin.com/in/mohit-kumar-395472230/">https://www.linkedin.com/in/mohit-kumar-395472230/</a></td>
             </tr>
             <tr>
-                <td>GitHub:</td>
+                <td><img src="github-square.svg" alt="GitHub:" height="25px" width="28px"></td>
                 <td><a href="https://github.com/mohit-41">https://github.com/mohit-41</a></td>
             </tr>
             <tr>
-                <td>Phone:</td>
+                <td><img src="contact.avif" alt="Phone:" height="25px" width="28px"></td>
                 <td><a href="tel:+919852298413">+919852298413</a></td>
             </tr>
         </table>
